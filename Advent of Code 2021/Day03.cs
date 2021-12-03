@@ -39,7 +39,7 @@ namespace Advent_of_Code_2021
                                                      .ToList();
 
             int gamma = Convert.ToInt32(string.Join(string.Empty, commonBits.Select(b => b ? "1" : "0")), 2);
-            int epsilon = Convert.ToInt32(string.Join(string.Empty, commonBits.Select(b => b ? "1" : "0")), 2);
+            int epsilon = Convert.ToInt32(string.Join(string.Empty, commonBits.Select(b => b ? "0" : "1")), 2);
 
             return gamma * epsilon;
         }
