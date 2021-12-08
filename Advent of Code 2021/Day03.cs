@@ -1,6 +1,4 @@
-﻿using System.Collections;
-
-namespace Advent_of_Code_2021
+﻿namespace Advent_of_Code_2021
 {
     public class Day03
     {
