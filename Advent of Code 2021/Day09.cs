@@ -139,7 +139,7 @@
             }
 
             return grid.LowPoints
-                       .Select(lp => grid.CalculateBasinSize(lp))
+                       .Select(lp => Grid.CalculateBasinSize(lp))
                        .OrderByDescending(size => size)
                        .Take(3)
                        .Aggregate((x, y) => x * y);

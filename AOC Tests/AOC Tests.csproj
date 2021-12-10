@@ -27,6 +27,8 @@
     <None Remove="Resources\Day08_Example.txt" />
     <None Remove="Resources\Day09_Answer.txt" />
     <None Remove="Resources\Day09_Example.txt" />
+    <None Remove="Resources\Day10_Answer.txt" />
+    <None Remove="Resources\Day10_Example.txt" />
   </ItemGroup>
 
   <ItemGroup>
@@ -34,6 +36,7 @@
     <EmbeddedResource Include="Resources\Day01_Answer.txt" />
     <EmbeddedResource Include="Resources\Day02_Answer.txt" />
     <EmbeddedResource Include="Resources\Day02_Example.txt" />
+    <EmbeddedResource Include="Resources\Day10_Answer.txt" />
     <EmbeddedResource Include="Resources\Day09_Answer.txt" />
     <EmbeddedResource Include="Resources\Day08_Answer.txt" />
     <EmbeddedResource Include="Resources\Day07_Answer.txt" />
@@ -41,6 +44,7 @@
     <EmbeddedResource Include="Resources\Day05_Answer.txt" />
     <EmbeddedResource Include="Resources\Day04_Answer.txt" />
     <EmbeddedResource Include="Resources\Day03_Answer.txt" />
+    <EmbeddedResource Include="Resources\Day10_Example.txt" />
     <EmbeddedResource Include="Resources\Day09_Example.txt" />
     <EmbeddedResource Include="Resources\Day08_Example.txt" />
     <EmbeddedResource Include="Resources\Day07_Example.txt" />
